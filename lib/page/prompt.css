@@ -1,5 +1,7 @@
+@import "https://fonts.googleapis.com/css?family=Montserrat";
+
 body {
-	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Montserrat";
 	line-height: 1.5em;
 	color: #333;
 	background-color: #fff;
@@ -72,7 +74,6 @@ select#data {
 
 /* custom theme */
 
-@import "https://fonts.googleapis.com/css?family=Montserrat";
 body {
 	background: #1c1f21;
 	color: white;
